@@ -4,7 +4,7 @@
 #
 Name     : rubygem-mongo_mapper
 Version  : 0.13.1
-Release  : 1
+Release  : 2
 URL      : https://rubygems.org/downloads/mongo_mapper-0.13.1.gem
 Source0  : https://rubygems.org/downloads/mongo_mapper-0.13.1.gem
 Summary  : No detailed summary available
